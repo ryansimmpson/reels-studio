@@ -1,0 +1,23 @@
+{
+  "name": "Minimal",
+  "about": "Quiet and editorial: teal accent, DM Sans with a Fraunces italic accent, lighter captions.",
+  "colors": {
+    "accent": "#19C3A0",
+    "accent_text": "#5FE0C4",
+    "accent_light": "#B5F2E5",
+    "on_accent": "#04241D",
+    "success": "#7BD88F",
+    "marker": "#5FE0C4"
+  },
+  "fonts": {
+    "sans": "DM Sans",
+    "sans_weights": [500, 600, 700, 800],
+    "accent": "Fraunces",
+    "accent_italic": true,
+    "accent_weight": 400,
+    "accent_scale": 1.3,
+    "mono": "IBM Plex Mono",
+    "mono_weights": [500, 700]
+  },
+  "captions": {"style": "soft", "size": 64, "weight": 500, "upper": false}
+}

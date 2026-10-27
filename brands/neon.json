@@ -1,0 +1,23 @@
+{
+  "name": "Neon",
+  "about": "Tech and gaming: acid lime on dark, Space Grotesk and Space Mono, karaoke box captions.",
+  "colors": {
+    "accent": "#B8FF2E",
+    "accent_text": "#CCFF6A",
+    "accent_light": "#E6FFB8",
+    "on_accent": "#0E1400",
+    "success": "#46E3A0",
+    "marker": "#CCFF6A"
+  },
+  "fonts": {
+    "sans": "Space Grotesk",
+    "sans_weights": [500, 600, 700],
+    "accent": "Space Grotesk",
+    "accent_italic": false,
+    "accent_weight": 700,
+    "accent_scale": 1.05,
+    "mono": "Space Mono",
+    "mono_weights": [400, 700]
+  },
+  "captions": {"style": "box", "size": 64, "weight": 700, "upper": false}
+}

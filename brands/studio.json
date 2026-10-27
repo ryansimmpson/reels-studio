@@ -1,0 +1,23 @@
+{
+  "name": "Studio",
+  "about": "The default. Electric blue on dark footage, Inter with an Instrument Serif italic accent, soft captions that rise out of a blur.",
+  "colors": {
+    "accent": "#3D7BFF",
+    "accent_text": "#78A6FF",
+    "accent_light": "#BCD2FF",
+    "on_accent": "#071330",
+    "success": "#5BD08A",
+    "marker": "#78A6FF"
+  },
+  "fonts": {
+    "sans": "Inter",
+    "sans_weights": [500, 600, 700, 800],
+    "accent": "Instrument Serif",
+    "accent_italic": true,
+    "accent_weight": 400,
+    "accent_scale": 1.42,
+    "mono": "JetBrains Mono",
+    "mono_weights": [500, 700]
+  },
+  "captions": {"style": "soft", "size": 70, "weight": 600, "upper": false}
+}

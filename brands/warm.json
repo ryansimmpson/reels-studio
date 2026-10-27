@@ -1,0 +1,23 @@
+{
+  "name": "Warm",
+  "about": "Friendly lifestyle look: coral accent, Plus Jakarta Sans with a Playfair Display italic accent, karaoke box captions.",
+  "colors": {
+    "accent": "#FF5A4E",
+    "accent_text": "#FF8C80",
+    "accent_light": "#FFC6BF",
+    "on_accent": "#2A0805",
+    "success": "#6FD49A",
+    "marker": "#FF8C80"
+  },
+  "fonts": {
+    "sans": "Plus Jakarta Sans",
+    "sans_weights": [500, 600, 700, 800],
+    "accent": "Playfair Display",
+    "accent_italic": true,
+    "accent_weight": 500,
+    "accent_scale": 1.3,
+    "mono": "JetBrains Mono",
+    "mono_weights": [500, 700]
+  },
+  "captions": {"style": "box", "size": 64, "weight": 700, "upper": false}
+}
