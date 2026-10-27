@@ -16,7 +16,7 @@ Point it at a video and it:
 
 ## Install
 ```bash
-git clone <this repo> ~/.claude/skills/reels-studio
+git clone https://github.com/ryansimmpson/reels-studio ~/.claude/skills/reels-studio
 bash ~/.claude/skills/reels-studio/scripts/setup.sh
 ```
 `setup.sh` creates `~/reels-studio` (override with `REELS_HOME`), installs HyperFrames and ffmpeg there, and builds the Swift tools.
@@ -53,3 +53,6 @@ Colours, fonts and caption style live in a brand file. Five presets ship in `bra
 
 ## Credits
 The short-form grammar (split layout, packed first frame, counters for numbers, logo lanes, reaction GIFs, a QA pass) builds on ideas from [open-edits](https://github.com/kevinbadi/open-edits) (MIT). Logos come from [Simple Icons](https://simpleicons.org) (CC0). Rendering is [HyperFrames](https://hyperframes.dev) with GSAP.
+
+## License
+MIT. Sounds, music, GIFs and logos you add keep their own licences; see `reference/sound.md`.
